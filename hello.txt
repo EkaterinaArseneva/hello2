@@ -1,2 +1,3 @@
 hello GIT!!
 hello git rebase
+hello git cherry-pick
